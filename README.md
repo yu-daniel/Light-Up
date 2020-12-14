@@ -5,7 +5,7 @@
 - The program is implemented in Python with GUI (Pygame) & hosted by Repl.it for easy grading.
 
 
-# Try playing on Repl.it!
+# Try Playing on Repl.it!
 
 - https://repl.it/@DanielYu5/lightup
 
