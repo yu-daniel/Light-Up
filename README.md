@@ -1,8 +1,8 @@
-# CS325
+# CS325 - Final Project (Fall 2020)
 
 
-# Important Note: 
-- The program is implemented in Python with GUI (Pygame) & hosted by Repl.it for easy grading.
+# Overview
+- Light Up (Akari) is a logical puzzle created by [Nikoli](https://www.nikoli.co.jp/) in 2001. The game is implemented in Python and Pygame for GUI. 
 
 
 # Try Playing on Repl.it!
@@ -60,7 +60,7 @@
 
 
 Make sure Python is already added to the PATH variable in Windows.
-(If not, follow this tutorial: https://www.educative.io/edpresso/how-to-add-python-to-path-variable-in-windows)
+(If not, follow this [tutorial](https://www.educative.io/edpresso/how-to-add-python-to-path-variable-in-windows))
 
 
 ### Install virtualenv & virtualenvwrapper-win
