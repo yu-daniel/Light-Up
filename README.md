@@ -50,9 +50,7 @@
 
 ## Required files: 
  - lightup.py
- - lb.png
- - lb2.png
-
+ - lb.png and lb2.png (images are from [Clipart Library](http://clipart-library.com/))
 
 ## Dependencies: 
  - pygame 2.0.0 (or newest version)
