@@ -475,6 +475,10 @@ class Pygame:
     def __init__(self):
         """
         Initiate RGB code for color referencing and constants for window settings.
+        
+        lb.png and lb2.png images are from:
+        http://clipart-library.com/clipart/pT5dGE7T9.htm
+        http://clipart-library.com/clipart/rcLgLx57i.htm
         """
         self.black = (0, 0, 0)
         self.white = (255, 255, 255)
