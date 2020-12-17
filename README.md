@@ -9,6 +9,10 @@
 
 - https://repl.it/@DanielYu5/lightup
 
+# Screenshots
+![image1](https://github.com/kuckikirukia/Light-Up/blob/main/images/sample1.png) ![image2](https://github.com/kuckikirukia/Light-Up/blob/main/images/sample2.png)
+
+![image3](https://github.com/kuckikirukia/Light-Up/blob/main/images/sample3.png) ![image4](https://github.com/kuckikirukia/Light-Up/blob/main/images/sample4.png)
 
 # How to Play the Game & Rules
 
@@ -46,8 +50,8 @@
 
 ## Required files: 
  - lightup.py
- - lightbulb.png
- - lightbulb2.png
+ - lb.png
+ - lb2.png
 
 
 ## Dependencies: 
