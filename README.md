@@ -134,3 +134,6 @@ If you don't have virtualenv installed yet, begin at step 1). Otherwise, begin a
 
 7) Optional - when finished with the game, type "deactivate" in the terminal.
 
+# Author
+[Daniel Yu](https://github.com/kuckikirukia)
+
