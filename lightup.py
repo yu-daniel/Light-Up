@@ -475,11 +475,6 @@ class Pygame:
     def __init__(self):
         """
         Initiate RGB code for color referencing and constants for window settings.
-
-        Reference:
-        (1) - https://www.puzzle-light-up.com/
-
-        The lightbulb.png and lightbulb2.png images are from reference (1)
         """
         self.black = (0, 0, 0)
         self.white = (255, 255, 255)
@@ -492,8 +487,8 @@ class Pygame:
         self.divider_width = 2                                       # size for the borders dividing the Board
         self.windows = [380, 450]                                    # default screen size (width x height)
         self.screen = pygame.display.set_mode(self.windows)          # initiate display when object is created
-        self.image = pygame.image.load('lightbulb.png').convert()    # normal light bulb image
-        self.image2 = pygame.image.load('lightbulb2.png').convert()  # red light bulb image
+        self.image = pygame.image.load('lb.png').convert()    # normal light bulb image
+        self.image2 = pygame.image.load('lb2.png').convert()  # red light bulb image
 
     def setup(self):
         """
